@@ -1,0 +1,360 @@
+Tcom-virtual-iosapp
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/Info.plist com-virtual-iosapp/com-virtual-iosapp-Info.plist
+cProcessPCH /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch.pth com-virtual-iosapp/com-virtual-iosapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/main.o /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/AppDelegate.o /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/FirstViewController.o /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/SecondViewController.o /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp normal i386
+cGenerateDSYMFile /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app.dSYM /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp
+cCopyStringsFile /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/InfoPlist.strings com-virtual-iosapp/en.lproj/InfoPlist.strings
+cCpResource com-virtual-iosapp/first.png build/Debug-iphonesimulator/com-virtual-iosapp.app/first.png
+cCpResource com-virtual-iosapp/first@2x.png build/Debug-iphonesimulator/com-virtual-iosapp.app/first@2x.png
+cCpResource com-virtual-iosapp/second.png build/Debug-iphonesimulator/com-virtual-iosapp.app/second.png
+cCpResource com-virtual-iosapp/second@2x.png build/Debug-iphonesimulator/com-virtual-iosapp.app/second@2x.png
+cCompileXIB /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/FirstViewController.xib
+cCompileXIB /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/SecondViewController.xib
+cTouch /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005053E66C0000000000244490
+t1347675756
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005053E66D0000000000353830
+t1347675757
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005053E6700000000000905E40
+t1347675760
+s9461312
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app.dSYM
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/Info.plist
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/PkgInfo
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/FirstViewController.nib
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/SecondViewController.nib
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/first.png
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/first@2x.png
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/second.png
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/second@2x.png
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/com-virtual-iosapp.LinkFileList
+c0000000053169391000000000000024E
+t1393988497
+s590
+
+N/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/AppDelegate.m
+c00000000531692E40000000000000BCE
+t1393988324
+s3022
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/FirstViewController.m
+c0000000053169187000000000000039A
+t1393987975
+s922
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/SecondViewController.m
+c000000005316934E00000000000003AB
+t1393988430
+s939
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/com-virtual-iosapp-Prefix.pch
+c00000000531691870000000000000153
+t1393987975
+s339
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/FirstViewController.xib
+c00000000531691870000000000002838
+t1393987975
+s10296
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/InfoPlist.strings
+c0000000053169187000000000000002D
+t1393987975
+s45
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/SecondViewController.xib
+c00000000531691870000000000002A92
+t1393987975
+s10898
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/first.png
+c00000000501A12AA00000000000000FD
+t1343885994
+s253
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/first@2x.png
+c00000000501A12AA0000000000000192
+t1343885994
+s402
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/main.m
+c00000000531691870000000000000146
+t1393987975
+s326
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/second.png
+c00000000501A12AA0000000000000080
+t1343885994
+s128
+
+N/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/second@2x.png
+c00000000501A12AA0000000000000082
+t1343885994
+s130
+
+N/var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch.pth
+t2
+s0
+
+Ncom-virtual-iosapp/com-virtual-iosapp-Info.plist
+c0000000053169194000000000000042B
+t1393987988
+s1067
+
+CBuild AST from /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/AppDelegate.m
+r0
+
+CBuild AST from /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/FirstViewController.m
+r0
+
+CBuild AST from /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/SecondViewController.m
+r0
+
+CBuild AST from /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesecdb6d11cbc6b841^e1f17d11cbc6b841^---0#1#0#--18"Check dependencies36"4E93D5E6-A572-444A-A63B-83A98BF2558F-
+
+CCompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/AppDelegate.o /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415681298.161076
+e415681298.533705
+r1
+xCompileC
+xbuild/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/AppDelegate.o
+x/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/AppDelegate.me8682912cbc6b841^97aa8812cbc6b841^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/AppDelegate.m0000000000000000^3605"CompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/AppDelegate.o com-virtual-iosapp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Deluda/com-virtual-iosapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-generated-files.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-own-target-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-all-target-headers.hmap -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-project-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources/i386 -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources -F/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator -include /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch -MMD -MT dependencies -MF /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/AppDelegate.dia -c /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/AppDelegate.m -o /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/AppDelegate.o36"E9849479-D17C-4FD3-A1E5-92F61E902285-
+
+CCompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/FirstViewController.o /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415681298.161123
+e415681298.533764
+r1
+xCompileC
+xbuild/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/FirstViewController.o
+x/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/FirstViewController.m59892912cbc6b841^57b18812cbc6b841^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/FirstViewController.m0000000000000000^3653"CompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/FirstViewController.o com-virtual-iosapp/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Deluda/com-virtual-iosapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-generated-files.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-own-target-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-all-target-headers.hmap -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-project-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources/i386 -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources -F/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator -include /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch -MMD -MT dependencies -MF /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/FirstViewController.d --serialize-diagnostics /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/FirstViewController.dia -c /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/FirstViewController.m -o /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/FirstViewController.o36"335E61EA-17BC-42D8-AF2E-DF016D227F63-
+
+CCompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/SecondViewController.o /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415681298.161151
+e415681298.533778
+r1
+xCompileC
+xbuild/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/SecondViewController.o
+x/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/SecondViewController.m0e872912cbc6b841^89b58812cbc6b841^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/SecondViewController.m0000000000000000^3659"CompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/SecondViewController.o com-virtual-iosapp/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Deluda/com-virtual-iosapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-generated-files.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-own-target-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-all-target-headers.hmap -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-project-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources/i386 -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources -F/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator -include /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch -MMD -MT dependencies -MF /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/SecondViewController.d --serialize-diagnostics /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/SecondViewController.dia -c /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/SecondViewController.m -o /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/SecondViewController.o36"44A3D8A4-C966-4B42-BEFC-5B84C0C28FA4-
+
+CCompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/main.o /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415681298.160746
+e415681298.348697
+r1
+xCompileC
+xbuild/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/main.o
+x/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/main.m145b2912cbc6b841^20455912cbc6b841^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/main.m0000000000000000^3563"CompileC build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/main.o com-virtual-iosapp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Deluda/com-virtual-iosapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-generated-files.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-own-target-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-all-target-headers.hmap -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-project-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources/i386 -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources -F/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator -include /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch -MMD -MT dependencies -MF /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/main.dia -c /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/main.m -o /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/main.o36"BE1136D1-1328-4DFA-A98C-4B778E234E74-
+
+CCompileXIB /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/FirstViewController.xib
+s415681298.792606
+e415681301.924555
+r1
+xCompileXIB
+x/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/FirstViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/FirstViewController.xib7904cb12cbc6b841^0fb6ec15cbc6b841^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/FirstViewController.xib0000000000000000^944"CompileXIB com-virtual-iosapp/en.lproj/FirstViewController.xib    cd /Users/Deluda/com-virtual-iosapp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/FirstViewController.nib /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/FirstViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"821B7A34-FD62-452C-BD82-6B76342005E7-
+
+CCompileXIB /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/SecondViewController.xib
+s415681298.792835
+e415681301.924543
+r1
+xCompileXIB
+x/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/SecondViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/SecondViewController.xib2b12cb12cbc6b841^14b1ec15cbc6b841^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/SecondViewController.xib0000000000000000^947"CompileXIB com-virtual-iosapp/en.lproj/SecondViewController.xib    cd /Users/Deluda/com-virtual-iosapp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/SecondViewController.nib /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/SecondViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"50ABA761-847C-4EB4-9E48-B0F17B5B2749-
+
+CCopyStringsFile /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/InfoPlist.strings com-virtual-iosapp/en.lproj/InfoPlist.strings
+s415681298.785926
+e415681298.791286
+r1
+xCopyStringsFile
+x/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/InfoPlist.strings
+xcom-virtual-iosapp/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy com-virtual-iosapp/en.lproj/InfoPlist.stringsae62c912cbc6b841^dd94ca12cbc6b841^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/en.lproj/InfoPlist.strings0000000000000000^607"CopyStringsFile build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj/InfoPlist.strings com-virtual-iosapp/en.lproj/InfoPlist.strings    cd /Users/Deluda/com-virtual-iosapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/en.lproj -- com-virtual-iosapp/en.lproj/InfoPlist.strings36"F438A6A2-2927-4786-B016-C14D5D9E6DF2-
+
+CCpResource com-virtual-iosapp/first.png build/Debug-iphonesimulator/com-virtual-iosapp.app/first.png
+s415681298.785990
+e415681298.789833
+r1
+xCpResource
+xcom-virtual-iosapp/first.png
+xbuild/Debug-iphonesimulator/com-virtual-iosapp.app/first.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/com-virtual-iosapp.app/first.png5b5ec912cbc6b841^e735ca12cbc6b841^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/first.png000000000080d041^594"CpResource com-virtual-iosapp/first.png build/Debug-iphonesimulator/com-virtual-iosapp.app/first.png    cd /Users/Deluda/com-virtual-iosapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/first.png /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app36"595D4E62-BF60-4851-8F2B-9F1DC806236E-
+
+CCpResource com-virtual-iosapp/first@2x.png build/Debug-iphonesimulator/com-virtual-iosapp.app/first@2x.png
+s415681298.786664
+e415681298.791387
+r1
+xCpResource
+xcom-virtual-iosapp/first@2x.png
+xbuild/Debug-iphonesimulator/com-virtual-iosapp.app/first@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/com-virtual-iosapp.app/first@2x.png9c89c912cbc6b841^ed9cca12cbc6b841^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/first@2x.png000000000080d041^609"CpResource "com-virtual-iosapp/first@2x.png" "build/Debug-iphonesimulator/com-virtual-iosapp.app/first@2x.png"    cd /Users/Deluda/com-virtual-iosapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/first@2x.png" /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app36"700A79C1-06EB-4FAF-A684-8E2C06EFA145-
+
+CCpResource com-virtual-iosapp/second.png build/Debug-iphonesimulator/com-virtual-iosapp.app/second.png
+s415681298.786677
+e415681298.793145
+r1
+xCpResource
+xcom-virtual-iosapp/second.png
+xbuild/Debug-iphonesimulator/com-virtual-iosapp.app/second.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/com-virtual-iosapp.app/second.png8197c912cbc6b841^a112cb12cbc6b841^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/second.png000000000080d041^597"CpResource com-virtual-iosapp/second.png build/Debug-iphonesimulator/com-virtual-iosapp.app/second.png    cd /Users/Deluda/com-virtual-iosapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/second.png /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app36"859F0078-AA35-48A0-997F-6866F2CDBF0B-
+
+CCpResource com-virtual-iosapp/second@2x.png build/Debug-iphonesimulator/com-virtual-iosapp.app/second@2x.png
+s415681298.791131
+e415681298.793810
+r1
+xCpResource
+xcom-virtual-iosapp/second@2x.png
+xbuild/Debug-iphonesimulator/com-virtual-iosapp.app/second@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/com-virtual-iosapp.app/second@2x.png40a1ca12cbc6b841^2e38cb12cbc6b841^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/second@2x.png000000000080d041^612"CpResource "com-virtual-iosapp/second@2x.png" "build/Debug-iphonesimulator/com-virtual-iosapp.app/second@2x.png"    cd /Users/Deluda/com-virtual-iosapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/second@2x.png" /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app36"C207C510-84CC-417B-B814-4F77EC21B039-
+
+CGenerateDSYMFile /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app.dSYM /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp
+s415681298.750622
+e415681298.776410
+r1
+xGenerateDSYMFile
+x/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app.dSYM
+x/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Generating /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app.dSYMc53bc012cbc6b841^11c3c612cbc6b841^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app.dSYM000000000080d041^673"GenerateDSYMFile build/Debug-iphonesimulator/com-virtual-iosapp.app.dSYM build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp    cd /Users/Deluda/com-virtual-iosapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp -o /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app.dSYM36"6C6F206E-AA57-414D-9D1C-0EEE8A984232-
+
+CLd /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp normal i386
+s415681298.541671
+e415681298.743857
+r1
+xLd
+x/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Link /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosappafcd8a12cbc6b841^876ebe12cbc6b841^---0#0#0#--1228"Ld build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp normal i386    cd /Users/Deluda/com-virtual-iosapp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator -F/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator -filelist /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/Objects-normal/i386/com-virtual-iosapp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/com-virtual-iosapp36"364931AD-C301-491D-82E1-D73754FB810D-
+
+CProcessInfoPlistFile /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/Info.plist com-virtual-iosapp/com-virtual-iosapp-Info.plist
+s415681297.498012
+e415681297.502331
+r1
+xProcessInfoPlistFile
+x/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/Info.plist
+xcom-virtual-iosapp/com-virtual-iosapp-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Process com-virtual-iosapp/com-virtual-iosapp-Info.plist9a977f11cbc6b841^029a8011cbc6b841^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/com-virtual-iosapp-Info.plist0000000000000000^709"ProcessInfoPlistFile build/Debug-iphonesimulator/com-virtual-iosapp.app/Info.plist com-virtual-iosapp/com-virtual-iosapp-Info.plist    cd /Users/Deluda/com-virtual-iosapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility com-virtual-iosapp/com-virtual-iosapp-Info.plist -genpkginfo /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app/Info.plist36"284DA2A4-D67B-4E2F-83C1-3C09D02ADC15-
+
+CProcessPCH /Users/Deluda/Library/Developer/Xcode/DerivedData/com-virtual-iosapp-atzdkshjkdmiqecjjprdxoodcikw/Index/PrecompiledHeaders/com-virtual-iosapp-Prefix-dxhuaynborykpkhkkonboeanqruv_ast/com-virtual-iosapp-Prefix.pch.pth com-virtual-iosapp/com-virtual-iosapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch.pth com-virtual-iosapp/com-virtual-iosapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415681297.511484
+e415681298.152853
+r1
+xProcessPCH
+x/var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch.pth
+xcom-virtual-iosapp/com-virtual-iosapp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile com-virtual-iosapp/com-virtual-iosapp-Prefix.pcha0c08311cbc6b841^5b222712cbc6b841^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/com-virtual-iosapp-Prefix.pch0000000000000000^3639"ProcessPCH /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch.pth com-virtual-iosapp/com-virtual-iosapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Deluda/com-virtual-iosapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-generated-files.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-own-target-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-all-target-headers.hmap -iquote /Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/com-virtual-iosapp-project-headers.hmap -I/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources/i386 -I/Users/Deluda/com-virtual-iosapp/build/com-virtual-iosapp.build/Debug-iphonesimulator/com-virtual-iosapp.build/DerivedSources -F/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch.dia -c /Users/Deluda/com-virtual-iosapp/com-virtual-iosapp/com-virtual-iosapp-Prefix.pch -o /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/tj/xn_cn47x5hz3yrxgn2jpjmpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/com-virtual-iosapp-Prefix-actdjxrqesupjkebdmmnmqhkeokj/com-virtual-iosapp-Prefix.pch.d36"DCBAF187-C750-473E-98DF-DB6E0CE27D3A-
+
+CTouch /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app
+s415681301.932636
+e415681301.941445
+r1
+xTouch
+x/Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Touch /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app99d6ee15cbc6b841^6403f115cbc6b841^---0#0#0#--398"Touch build/Debug-iphonesimulator/com-virtual-iosapp.app    cd /Users/Deluda/com-virtual-iosapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Deluda/com-virtual-iosapp/build/Debug-iphonesimulator/com-virtual-iosapp.app36"18EE002D-55F8-40C3-93B9-2FD9C86A5194-
+
