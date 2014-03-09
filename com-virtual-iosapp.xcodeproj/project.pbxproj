@@ -401,6 +401,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "com-virtual-iosapp/com-virtual-iosapp-Prefix.pch";
 				INFOPLIST_FILE = "com-virtual-iosapp/com-virtual-iosapp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -412,6 +413,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "com-virtual-iosapp/com-virtual-iosapp-Prefix.pch";
 				INFOPLIST_FILE = "com-virtual-iosapp/com-virtual-iosapp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -470,6 +472,7 @@
 				95B3556518C6C907003CCD8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		95B3556618C6C907003CCD8E /* Build configuration list for PBXNativeTarget "com-virtual-iosappTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +481,7 @@
 				95B3556818C6C907003CCD8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
